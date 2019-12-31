@@ -1,0 +1,8 @@
+minihdlc.c:66:20:minihdlc_sendchar	0	static
+minihdlc.c:160:13:buffer_push	0	static
+minihdlc.c:56:6:minihdlc_init	0	static
+minihdlc.c:73:6:minihdlc_char_receiver	16	static
+minihdlc.c:120:6:minihdlc_send_frame	24	static
+minihdlc.c:168:6:minihdlc_send_frame_to_buffer	0	static
+minihdlc.c:175:10:minihdlc_get_buffer	0	static
+minihdlc.c:179:10:minihdlc_get_buffer_size	0	static

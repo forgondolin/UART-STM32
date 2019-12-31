@@ -1,0 +1,3 @@
+mx_prat_05_funcoes.c:19:9:conv_7_seg	0	static
+mx_prat_05_funcoes.c:53:6:serializar	16	static
+mx_prat_05_funcoes.c:75:6:reset_pin_GPIOs	8	static
